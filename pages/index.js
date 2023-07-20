@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Vamo ver um filmeco? Ti amo mozi, desgurpa demorar</h1>
+    return <h1>Teste forçando ammend</h1>
 }
 
 export default Home;
