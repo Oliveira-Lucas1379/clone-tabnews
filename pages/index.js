@@ -10,7 +10,12 @@ function Home() {
         pra ter mais tempo pra estudar outras coisas.
       </h1>
       <h1>-Revise suas notas.</h1>
-      <h1>-Teste</h1>
+      <h1> </h1>
+      <h1>
+        Olá, seja bem vindo ao TABerna eu sou Voytek e em breve este será nosso
+        mundo em conjunto, criado para quem joga RPG, onde compartilhamos ideias
+        para criar e incrementar nossos universos particulares.
+      </h1>
     </body>
   );
 }
