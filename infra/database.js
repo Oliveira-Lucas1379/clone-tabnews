@@ -1,4 +1,5 @@
 import { Client } from "pg";
+import { version } from "react";
 
 async function query(queryObject) {
   const client = new Client({
